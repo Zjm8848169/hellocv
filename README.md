@@ -3,7 +3,6 @@
 HelloCV/
   --README.Md
   --links.md
-  --photos.md
 环境配置步骤：
 2.本次实践基于拯救者Y7000P上的ubuntu22.04系统环境
   在windows11基础上，按照学长推荐的教程制作安装盘，并成功安装上ubuntu双系统
@@ -11,4 +10,3 @@ HelloCV/
   下载VScode等必备软件
 3.使用方法
   查看笔记请点击links.md查看语雀文档连接
-  一些截图请看photos.md
