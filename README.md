@@ -10,3 +10,6 @@ HelloCV/
   下载VScode等必备软件
 3.使用方法
   查看笔记请点击links.md查看语雀文档连接
+  https://www.yuque.com/u70842790/vdlrzu/eo98obg8dgvx9k6o?singleDoc#《张津铭git笔记》
+  https://www.yuque.com/u70842790/vdlrzu/gd1itltwoelrp72v?singleDoc#《张津铭git》
+  https://www.yuque.com/u70842790/vdlrzu/bws6sxyufyhshawe?singleDoc#《Linux学习与实践记录（张津铭）》
