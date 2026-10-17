@@ -3,6 +3,7 @@
  cmake笔记https://www.yuque.com/u70842790/vdlrzu/ai9dvhch1peh2g9y/edit
  实践记录https://www.yuque.com/u70842790/vdlrzu/gyc7ncbvg05luati
  代码：https://www.yuque.com/u70842790/vdlrzu/aqtrpkthid671go3
+ LLM:https://www.yuque.com/u70842790/vdlrzu/lc70xo0i4puucv4z
 
 
 本项目为第一次作业提交仓库
