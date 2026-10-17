@@ -1,3 +1,10 @@
+张津铭
+ 第二次作业提交连接：
+ cmake笔记https://www.yuque.com/u70842790/vdlrzu/ai9dvhch1peh2g9y/edit
+ 实践记录https://www.yuque.com/u70842790/vdlrzu/gyc7ncbvg05luati
+ 代码：https://www.yuque.com/u70842790/vdlrzu/aqtrpkthid671go3
+
+
 本项目为第一次作业提交仓库
 1.项目结构如下：
 HelloCV/
@@ -13,3 +20,5 @@ HelloCV/
   https://www.yuque.com/u70842790/vdlrzu/eo98obg8dgvx9k6o?singleDoc#《张津铭git笔记》
   https://www.yuque.com/u70842790/vdlrzu/gd1itltwoelrp72v?singleDoc#《张津铭git》
   https://www.yuque.com/u70842790/vdlrzu/bws6sxyufyhshawe?singleDoc#《Linux学习与实践记录（张津铭）》
+
+ 
